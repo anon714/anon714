@@ -1,6 +1,5 @@
 *.py[cod]
 __pycache__/
-checkpoints/
 .idea/
 db_key.json
 misc_scripts/
